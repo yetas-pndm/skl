@@ -1,0 +1,23 @@
+body {
+	margin-left: 100px;
+	background-color: pink;
+}
+
+h1 {
+	color: white;
+	font-family: "Open Sans", sans-serif;
+	font-size: 100px;
+}
+
+p { 
+    font-size : 50px;
+	color : blue;
+}
+
+h2 {
+	font-size: 50px 
+}
+
+a {
+	font-size : 30px
+}
